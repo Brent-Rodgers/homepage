@@ -1,0 +1,17 @@
+---
+title: "Brent Rodgers"
+image: "brent.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/brent-rodgers-p-eng-753a25133/"
+  - label: Twitter
+    url: "https://twitter.com/BrentRodgers13"
+  - label: GitHub
+    url: "https://github.com/Brent-Rodgers"
+  - label: Email
+    url: "mailto:rodgers.brentc@gmail.com"
+output:
+  postcards::jolla_blue
+---
+
+YYC-based engineer & data scientist working in the energy industry. Aspiring home-cook, recovering musician, Meshuggah fan.
